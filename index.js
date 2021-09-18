@@ -6,10 +6,10 @@
 
 function countDuplicate(numbers) {
    let value = numbers[index]; 
-   let duplicate = numbers.filter(value => value === value); //mostrar
-   let qt = duplicate;
+   let duplicate = numbers.filter(value => value === value); //mostrar se há valores iguais
+   let qt = duplicate; 
    if (qt > 1) {
-       
+       // mostrar a quantidade de vezez que tem esse número
    }
   
 
