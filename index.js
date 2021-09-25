@@ -1,7 +1,4 @@
-
-
-//Criar uma variável auxiliar para o index do array
-//Se essa variável tiver  mais que dois valores iguais, deve-se filtrar
+//Verificar se há valores iguais e filtrá-los
 //mostrar a quantidade desses números repetidos.
 
 function countDuplicate(numbers) {
